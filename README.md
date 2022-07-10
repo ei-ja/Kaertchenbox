@@ -27,3 +27,6 @@ App type: PC, Windows 7 or newer
 
 Run the setup you get here: https://github.com/ei-ja/Kaertchenbox/blob/main/KB%20Setup.exe
 Now you have successfully installed the app.
+
+#### Notice:
+The program is currently being revised and will be available again soon.
