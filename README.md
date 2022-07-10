@@ -16,7 +16,8 @@ Nun haben Sie die App erfolgreich Installiert.
 
 ### Benutze Programme
 
-Programm wurde mit Python erstellt. Die EXE-Datei mit pyinstaller/auto-py-to-exe und der Installer mit Inno Setup.
+Programm wurde mit Python erstellt. Die EXE-Datei mit pyinstaller und der Installer mit Inno Setup.
+Pyinstaller Lizenz:GPU 2(https://www.gnu.org/licenses/old-licenses/lgpl-2.0)
 
 ## English
 
@@ -34,4 +35,5 @@ Now you have successfully installed the app.
 
 ### Use programs
 
-Program was created with Python. The EXE file with pyinstaller/auto-py-to-exe and the installer with Inno Setup.
+Program was created with Python. The EXE file with pyinstaller and the installer with Inno Setup.
+Pyinstaller license:GPU 2(https://www.gnu.org/licenses/old-licenses/lgpl-2.0)
