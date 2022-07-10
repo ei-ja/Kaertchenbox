@@ -14,6 +14,10 @@ Apptype: PC, Windows 7 oder neuer
 Führen Sie das Setup aus, das Sie hier erhalten: https://github.com/ei-ja/Kaertchenbox/blob/main/KB%20Setup.exe
 Nun haben Sie die App erfolgreich Installiert.
 
+### Benutze Programme
+
+Programm wurde mit Python erstellt. Die EXE-Datei mit pyinstaller/auto-py-to-exe und der Installer mit Inno Setup.
+
 ## English
 
 ### Description
@@ -28,5 +32,6 @@ App type: PC, Windows 7 or newer
 Run the setup you get here: https://github.com/ei-ja/Kaertchenbox/blob/main/KB%20Setup.exe
 Now you have successfully installed the app.
 
-#### Notice:
-The program is currently being revised and will be available again soon.
+### Use programs
+
+Program was created with Python. The EXE file with pyinstaller/auto-py-to-exe and the installer with Inno Setup.
